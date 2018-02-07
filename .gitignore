@@ -1,2 +1,5 @@
 ## ignore all data
 data/
+
+## ignore the ipython notebook check points
+.ipynb_checkpoints/
